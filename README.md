@@ -1,13 +1,13 @@
 
-# Hello World, I'm Iqra Sarwar 👋
+#  I'm Asma Rafique 👋
 
-### I am a Student, Developer, and Web Enthusiast
+  Current Status: I am a Student, Learner
 - 😄 I am currently striving to learn, develop & Grow.
-- 🔭 I am currently working on MERN Stack.
-- 🌱 I am currently learning everything 🤣 but specifically expanding my knowledge in Full Stack Development
-- 👯 I am looking to collaborate on Web Development Projects
-- 🥅 2022 Goals: Contribute to open source and learn Full Stack Development as much as possible
-- 📢 I Love to read books, teach and motivate my fellows
+- 🔭 I am currently working on Front end development.
+- 🌱 I want to Learn Emerging Technologies. 
+-     Currently i expanding my knowledge in Frent end Development.
+- 🥅 1 June to 31 August Goal: Knowledge in front end Development as much as possible and contribute to open source.  
+- 📢 I love to read and understand Holy Quran as much as possible, other than that i teach.
 
 	<a  align="center">
 ![](https://komarev.com/ghpvc/?username=Asma-Rafique&color=blueviolet&label=Profile+Views)
