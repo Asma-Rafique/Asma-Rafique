@@ -6,7 +6,6 @@
 - 🔭 I am currently working on Front end development.
 - 🌱 I want to Learn Emerging Technologies. 
 -     Currently i expanding my knowledge in Frent end Development.
-- 🥅 1 June to 31 August Goal: Knowledge in front end Development as much as possible and contribute to open source.  
 - 📢 I love to read and understand Holy Quran as much as possible, other than that i teach.
 
 	<a  align="center">
