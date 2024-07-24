@@ -3,7 +3,7 @@
 
   Current Status: I am a Student, Learner
 - 😄 I am currently striving to learn, develop & Grow.
-- 🔭 I am currently working on Front end development.
+- 🔭 I am currently working on back end development.
 - 🌱 I want to Learn Emerging Technologies. 
 -     Currently i expanding my knowledge in Frent end Development.
 - 📢 I love to read and understand Holy Quran as much as possible, other than that i teach.
