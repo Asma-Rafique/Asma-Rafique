@@ -1,12 +1,12 @@
 
 #  I'm Asma Rafique 👋
 
-  Current Status: I am a Student, Learner
+  Current Status: I am a developer, Learner
 - 😄 I am currently striving to learn, develop & Grow.
-- 🔭 I am currently working on back end development.
+- 🔭 I am currently working on front end development.
 - 🌱 I want to Learn Emerging Technologies. 
 -     Currently i expanding my knowledge in Frent end Development.
-- 📢 I love to read and understand Holy Quran as much as possible, other than that i teach.
+- 📢 I love to read and understand Holy Quran as much as possible, other than that i like to read and research about history of muslims.
 
 	<a  align="center">
 ![](https://komarev.com/ghpvc/?username=Asma-Rafique&color=blueviolet&label=Profile+Views)
